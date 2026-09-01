@@ -68,7 +68,7 @@
       "serviceName": "Connected Operations Cloud",
       "serviceDescription": "The Samsara Connected Operations Cloud platform, including fleet telematics, video-based safety, equipment monitoring, driver workflows, and compliance applications, with dashboards, alerting, reporting, and open APIs.",
       "dateAvailable": "2021-04-20",
-      "securityCategory": "Low"
+      "securityCategory": "Moderate"
     }
   ]
 }

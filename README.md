@@ -27,7 +27,7 @@ The Samsara Connected Operations Cloud is a software-as-a-service platform that 
 
 | Service | Security category |
 |---|---|
-| Connected Operations Cloud — fleet telematics, video-based safety, equipment monitoring, driver workflows, and compliance applications, with dashboards, alerting, reporting, and open APIs | Low |
+| Connected Operations Cloud — fleet telematics, video-based safety, equipment monitoring, driver workflows, and compliance applications, with dashboards, alerting, reporting, and open APIs | Moderate |
 
 ## Contacts
 
