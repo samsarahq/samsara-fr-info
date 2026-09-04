@@ -33,8 +33,8 @@ The Samsara Connected Operations Cloud is a software-as-a-service platform that 
 
 | Role | Contact |
 |---|---|
-| Security | Nick Hardy, Senior Director, Security GRC and Program Management — GRC@samsara.com |
-| Sales | Samsara Sales Operations — salesops-team@samsara.com |
+| Security | Nick Hardy, Senior Director, Security GRC and Program Management — security@samsara.com |
+| Sales | Samsara Sales — sales@samsara.com |
 
 ## Documentation and trust center
 
@@ -46,4 +46,4 @@ Samsara provides customer-facing product documentation, administrator guides, AP
 
 ## Maintenance
 
-This information is reviewed and updated by the Samsara Security GRC team at least quarterly, and after any change that affects its accuracy. Questions: GRC@samsara.com.
+This information is reviewed and updated by the Samsara Security GRC team at least quarterly, and after any change that affects its accuracy. Questions: security@samsara.com.
