@@ -4,7 +4,7 @@
     "responsibleOfficial": {
       "name": "Nick Hardy",
       "title": "Senior Director, Security GRC and Program Management",
-      "email": "GRC@samsara.com"
+      "email": "security@samsara.com"
     },
     "version": "1.0.0",
     "lastUpdated": "2026-09-01T00:00:00Z",
@@ -54,12 +54,12 @@
     {
       "contactType": "Security",
       "contactName": "Nick Hardy, Senior Director, Security GRC and Program Management",
-      "contactEmail": "GRC@samsara.com"
+      "contactEmail": "security@samsara.com"
     },
     {
       "contactType": "Sales",
       "contactName": "Samsara Sales Operations",
-      "contactEmail": "salesops-team@samsara.com"
+      "contactEmail": "sales@samsara.com"
     }
   ],
   "documentationOverview": "Samsara provides customer-facing product documentation, administrator guides, API documentation, and security documentation via its public documentation site and trust center.",
