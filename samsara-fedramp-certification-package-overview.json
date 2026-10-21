@@ -4,7 +4,7 @@
     "responsibleOfficial": {
       "name": "Nick Hardy",
       "title": "Senior Director, Security GRC and Program Management",
-      "email": "security@samsara.com"
+      "email": "GRC@samsara.com"
     },
     "version": "1.0.0",
     "lastUpdated": "2026-09-01T00:00:00Z",
@@ -54,7 +54,7 @@
     {
       "contactType": "Security",
       "contactName": "Nick Hardy, Senior Director, Security GRC and Program Management",
-      "contactEmail": "security@samsara.com"
+      "contactEmail": "GRC@samsara.com"
     },
     {
       "contactType": "Sales",
